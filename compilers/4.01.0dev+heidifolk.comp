@@ -1,5 +1,5 @@
 opam-version: "1"
-version: "4.01.0"
+version: "4.01.0dev"
 src: "https://github.com/heidi-ann/ocaml/tarball/trunk"
 build: [
   ["./configure" "-prefix" "%{prefix}%" "-with-debug-runtime"]
